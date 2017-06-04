@@ -1,0 +1,28 @@
+body{
+	color: white;
+  	text-align: center;
+  	background-color: #4B367C;
+}
+
+a{
+	color: white;
+}
+
+.container{
+	background-color: #533C89;
+}
+
+.img-small{
+	min-width: 45px;
+}
+
+.row-div{
+	padding-bottom: 10px;
+	background-color: #7957C8;
+	padding: 5px 0 5px 0;
+	margin-bottom: 5px;
+}
+
+#twitch-icon{
+	padding-top: 25px;
+}
